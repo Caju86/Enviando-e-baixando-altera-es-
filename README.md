@@ -11,3 +11,4 @@ git restore - restaura um arquivo a um estado anterior
 git commit --amend -m "novo nome" - Altera o nome do comentário/mensagem do comit
 git reset --(soft/mixed/hard)- restaura um commit feito para a area de preparação
 git reflog - mostra todo o historico de alterações git
+alteraçõers remota

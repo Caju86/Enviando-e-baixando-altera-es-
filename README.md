@@ -12,3 +12,4 @@ git commit --amend -m "novo nome" - Altera o nome do comentário/mensagem do com
 git reset --(soft/mixed/hard)- restaura um commit feito para a area de preparação
 git reflog - mostra todo o historico de alterações git
 alteraçõers remota
+aprendido como usar o codespace e fazer git pull
